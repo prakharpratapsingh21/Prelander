@@ -1,0 +1,20 @@
+//---------------------Warmup  Project------------------
+
+import React from 'react'
+import {Routes,Route} from 'react-router'
+import Home from './Warmup Project/Home'
+import Details from './Warmup Project/Details'
+function App() {
+  return (
+    <div className='w-full h-screen flex'>   
+      
+      <Routes>
+        <Route path="/" element={<Home/>}/>  
+        <Route path="/details/:id" element={<Details/>}/>  
+      </Routes>                 
+      
+    </div>
+  )
+}
+
+export default App

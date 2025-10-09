@@ -2,7 +2,7 @@
 
 
 import React from "react";
-import FallLoanPrelander from "./Components/FallLoanPrelander";
+// import FallLoanPrelander from "./Components/FallLoanPrelander";
 import LoanLandingPage from "./Components/LoanLandingPage";
 function App(){
   return (

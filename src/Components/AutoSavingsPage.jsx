@@ -21,7 +21,7 @@ export default function AutoSavingsPage() {
         {/* Image */}
         <div className="my-8 flex justify-center">
           <img
-            src="/public/sav.webp"
+            src="/sav.webp"
             alt="Decorated scarecrow and car"
             className="w-full max-w-2xl rounded-lg shadow-md"
           />

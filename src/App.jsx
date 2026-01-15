@@ -7,8 +7,8 @@ function App(){
   return (
     <div>
       {/* <FallLoanPrelander/> */}
-      {/* <LoanLandingPage/> */}
-      <AutoSavingsPage/>
+       <LoanLandingPage/> 
+      {/* <AutoSavingsPage/> */}
     </div>
   )
 }
